@@ -13,6 +13,6 @@ dedicated AWS Lambda functions, each responsible for specific reminder-related f
 
 **Development**
 
-To begin development, developers need to setup the apikey.properties file in the root directory of the project. 
+To begin development, developers need to setup the apikey.properties file in the root directory of the project with the API Gateway Endpoint 
 
 In addition to configuring Amplify. For more information: https://docs.amplify.aws/android/start/project-setup/use-existing-resources/
