@@ -9,3 +9,10 @@ retrieval and seamless UI updates, enhancing the user experience
 • Implemented AWS EventBridge to trigger Lambda functions notifying users of events through AWS SES
 • Utilized AWS Cognito to authorize and regulate access to RESTful APIs, which featured endpoints leading to
 dedicated AWS Lambda functions, each responsible for specific reminder-related functionality
+
+
+**Development**
+
+To begin development, developers need to setup the apikey.properties file in the root directory of the project. 
+
+In addition to configuring Amplify. For more information: https://docs.amplify.aws/android/start/project-setup/use-existing-resources/
