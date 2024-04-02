@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="add_todo">Add Todo</string>
+    <string name="binding_failed">view binding has failed</string>
+    <string name="create_task">Create Task</string>
+    <string name="get_todo">Get Todo</string>
+    <string name="todo_description_hint">Description of your Todo Event</string>
+    <string name="todo_name_hint">Todo Event Name</string>
+    <string name="added_todo_task">Created your TodoTask</string>
+    <string name="update_task">Update task</string>
+    <string name="server_client_id">417010407283-sgmc3f7qudskplvrv3ai1ddlf7vs7k72.apps.googleusercontent.com</string>
+    <string name="email">Email</string>
+    <string name="login_failure">Login Failed</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="set_up">One Moment Please</string>
+    <string name="updated_task">Task was Updated</string>
+</resources>
