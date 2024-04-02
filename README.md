@@ -1,6 +1,6 @@
 Developers: Alexander Flores Sosa and Edwin Cojitambo
 
-Developed as final project for Cloud Computer Course at Moravian University
+Developed as final project for Cloud Computer Course (Fall 2022) at Moravian University
 
 • Server-less CRUD-based mobile application developed using AWS, combining knowledge of Android and Cloud
 development into a single application leveraging AWS services such as Lambda, API Gateway, and DynamoDB
